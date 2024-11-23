@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammeddgtl
-- 👀 I’m interested in **Reinfocement Learining**
+- 👀 I’m interested in **Reinfocement Learning**
 - 🌱 I’m currently Pursuing Diploma In Computer Engineering
 - 💞️ I’m looking to collaborate on My Upcoming Projects (E.g Self Learining Pong)
 - 📫 Reach Me On Instagram **"Mohammeddgtl"**
